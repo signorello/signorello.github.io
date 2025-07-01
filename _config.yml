@@ -18,14 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Salvatore Signorello's Personal Website
-email: your-email@example.com
+title: Salvatore Signorello's Website
+author: Salvatore Signorello
+home: Home
+email: s.signorello@fct.unl.pt
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of the computer scientist Dr. Salvatore Signorello
+  Computer science researcher interested in computer networking and reproducibility of CS research. Based in Portugal, where I work as an assistant professor at NOVA University Lisbon.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://signorello.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: https://signorello.github.io # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  signorello
+linkedin_username: salvatoresignorello
 
 # Build settings
 theme: minima
