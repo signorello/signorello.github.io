@@ -16,10 +16,10 @@ title: About Me
 
 I am broadly interested in protocols and architectures for networked systems. Most of my current research primarily centers on the use of programmable network technologies for network monitoring and network security applications. I am also very interested in the topic of reproducibility in computer science research, since 2020 I have been actively involved in assisting with artifact evaluation processes at conferences related to systems, networks, and security. 
 
-Before joining NOVA University Lisbon, I worked as a research scientist at Telefonica Research in Barcelona from 2023 to 2024. Prior to this role, I served as an invited assistant professor at the Department of Informatics (DI) of the Faculty of Sciences of the University of Lisbon (FCUL) from 2021 to 2023 and as a postdoctoral researcher at FCUL and INESC-ID/IST in Lisbon from 2018 to 2021. I hold a PhD in Computer Science jointly from the Interdisciplinary Centre for Security, Reliability and Trust (SnT) in Luxembourg and the INRIA-Nancy Lab in France, and an MSc. and a BSc. in Computer Science and Information Engineering from Italy.
+Before joining NOVA University Lisbon, I worked as a research scientist at Telefonica Research in Barcelona from 2023 to 2024. Prior to this role, I served as an invited assistant professor at the Department of Informatics (DI) of the Faculty of Sciences of the University of Lisbon (FCUL) from 2021 to 2023 and as a postdoctoral researcher at FCUL and INESC-ID/IST in Lisbon from 2018 to 2021 luckily advised by <a href="https://www.inesc-id.pt/member/6c2ab9ca-32c3-4c1d-bf70-46fc3846d405/">Prof. Fernando M.V. Ramos</a> . I hold a PhD in Computer Science jointly from the Interdisciplinary Centre for Security, Reliability and Trust (SnT) in Luxembourg and the INRIA-Nancy Lab in France, and an MSc. and a BSc. in Computer Science and Information Engineering from Italy.
 
 
 <p>&nbsp;</p>
 <p><em>Professional Memberships:</em></p>
-I am a member of the <em>Association for Computing Machinery</em> (ACM) since 2020, and also member of the ACM Special Interest Group on Data Communication (SIGCOMM) & of the ACM Emerging Interest Group on Reproducibility and Replicability (EIGREP).<br />
-I am an individual member of <em>Internet Society</em> since 2024.
+I am a member of the <em>Association for Computing Machinery</em> (ACM), and also member of the ACM Special Interest Group on Data Communication (SIGCOMM) & of the ACM Emerging Interest Group on Reproducibility and Replicability (EIGREP).<br />
+I am an individual member of <em>Internet Society</em>.

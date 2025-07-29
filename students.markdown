@@ -3,22 +3,13 @@ layout: page
 title: Students
 permalink: /students/
 ---
-The following MSc thesis topics are currently available to students of the Integrated Master in Computer Science programme at NOVA. If you are a student interested in finding out more about any of them, please feel free to email me to discuss them further.
-
-<p>&nbsp;</p>
-
-<ul style="list-style-type: circle;">
-<li>&ldquo;Bridging ICN and IP networks at unprecedented network speeds: exploring in-network translation with P4.&rdquo; - co-advisor: Prof. Fernando Ramos (INESC-ID / IST) - scholarship available. </li>
-<li>&ldquo;Terabit-speed SCION Border Router offering EPIC security&rdquo; - co-advisor: Prof. Fernando Ramos (INESC-ID / IST) - scholarship available. </li>
-<li>&ldquo;Building a public online monitoring platform of Artifact Evaluation processes at computer systems conferences.&rdquo; - co-advisor: Dr. Anjo Vahldiek-Oberwagner (Intel Labs) </li>
-<li>&ldquo;Assessing the degree of reproducibility of existing P4-based research.&rdquo;. </li>
-</ul>
-
 
 <p>&nbsp;</p>
 <p><em><strong>Current MSc. supervisions:</strong></em></p>
 <ul style="list-style-type: circle;">
-<li>Bernardo Jordao at IST (Lisbon, PT), co-advised with Prof. Fernando M.V. Ramos (IST), &ldquo;A Study of Traffic Change Detection for Terabit Networks: From Evaluation to Self-Configuration&rdquo;.</li>
+<li>Jo&atilde;o Bernardo at NOVA University Lisbon (PT), co-advised with Prof. Fernando M.V. Ramos (IST), <em>&ldquo;Bridging ICN and IP networks at unprecedented network speeds: exploring in-network translation with P4.&rdquo;</em></li>
+<li>Duarte Gabriel at NOVA University Lisbon (PT), <em>&ldquo;Assessing the degree of reproducibility of existing P4-based research.&rdquo;</em>. </li>
+<li>Bernardo Jordao at IST (Lisbon, PT), co-advised with Prof. Fernando M.V. Ramos (IST), <em>&ldquo;A Study of Traffic Change Detection for Terabit Networks: From Evaluation to Self-Configuration&rdquo;</em>.</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong><em>Past MSc. supervisions:</em></strong></p>

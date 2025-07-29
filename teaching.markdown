@@ -7,6 +7,7 @@ permalink: /teaching/
 <p>[2025-to present]</p>
 <p><em>Institution:</em> Computer Science Department (DI) of NOVA University Lisbon.</p>
 <p><em>Scientific Area:</em> Computer Systems Organization</p>
+<p>2025/2026 - 1st semester: Labs of&nbsp;Computer Networks - BSc in Computer Science Engineering.</p>
 <p>2024/2025 - 2nd semester: Labs of&nbsp;Informatics for Science and Engineering for various Bachelor programmes in Engineering.</p>
 <p>&nbsp;</p>
 <p>[Sep 2021 - Feb 2023]&nbsp;</p>

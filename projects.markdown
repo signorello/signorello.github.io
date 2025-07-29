@@ -13,18 +13,10 @@ permalink: /projects/
 <p><em>Hosting Institution:</em> NOVA University of Lisbon (previously at Faculty of Sciences of the University of Lisbon)</p>
 <p><br /><em>Partners:</em> Prof. Fernando M. V. Ramos (PI) at IST in Lisbon and Prof. Daniel Corujo (co-PI) at IT in Aveiro.</p>
 <p>&nbsp;</p>
-<p><strong>Past Projects</strong></p>
-<p>&rdquo;CERBERUS: dynamic security and liability over distributed virtualized networks&rsquo;&rdquo; (Next Generation-EU)</p>
-<p>Research Lab: Telef&oacute;nica Innovac&iacute;on Digital (TID), Barcelona, Spain.</p>
-<p>Role: Principal Investigator and Individual Contributor</p>
-<p>&nbsp;</p>
-<p>&rdquo;User-centric Programmable Virtual Networks (uPVN)&rdquo;&nbsp; (FCT)</p>
+<p><strong>Interesting Past Projects</strong></p>
+<p>&rdquo;User-centric Programmable Virtual Networks (uPVN)&rdquo;&nbsp; (PT-FCT)</p>
 <p>Hosting Institutions:&nbsp;FCUL and at INESC-ID/IST in Lisbon, Portugal.</p>
 <p>Role:&nbsp;&nbsp;Post-doc Researcher</p>
-<p>&nbsp;</p>
-<p>IDSECOM (FNR-CORE)</p>
-<p>Hosting Institutions: the SnT research centre of the University of Luxembourg (LU) and the INRIA Nancy-Lab at the University of Lorraine (FR).</p>
-<p>Role: PhD Student</p>
 <p>&nbsp;</p>
 <p>CONVERGENCE (EU-FP7)</p>
 <p>Hosting Institution: National Inter-University Consortium for Telecommunications (CNIT), R&amp;D unit of the University of Tor Vergata, Rome (IT).</p>
