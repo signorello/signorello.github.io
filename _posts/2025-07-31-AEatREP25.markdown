@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Our paper on Five Years of Artifact Evaluations at EuroSys presented at ACM REP'25."
+date:   2025-07-31 14:48:49 +0100
+categories: jekyll update
+---
+This week the paper titled <em>“Lessons from Five Years of Artifact Evaluations at EuroSys”</em> was finally presented at this year edition of the [ACM conference on Reproducibility and Replicability (REP)][ACM-REP25], the ACM flagship conference on all-things Reproducibility. 
+
+This paper is the result of a very nice collaboration between a large group of former EuroSys chairs who have helped to shape the artifact evaluation process at EuroSys since its introduction in 2021. I was co-chair in 2022; you can view some of our work from that year on the [Systems Research Artifacts website][SysArtifacts-EuroSys22].
+
+This paper offers a valuable retrospective on the artifact evaluation process following five completed instances at the EuroSys conference. It outlines the general goals of the evaluation process and provides specific implementation details for EuroSys. For the first time, it gathers and presents data including the percentage of accepted papers that underwent artifact evaluation, the various percentages of different badges awarded, the composition of committee members, and the timeline of the process, all in one place. Most importantly, it highlights some of the most pressing, recurring challenges that chairs have faced over the years. These challenges are accompanied by actionable proposals for both the short- and long-term, which we hope future Artifact Evaluation chairs at EuroSys or other related conferences in the computer science field will consider.
+
+The paper will be soon available [here][Paper].
+
+You can also listen to some of the authors discussing it live in this [podcast episode][Podcast].
+
+
+[ACM-REP25]: https://acm-rep.github.io/2025/
+[SysArtifacts-EuroSys22]: https://sysartifacts.github.io/eurosys2022/
+[Paper]: https://doi.org/10.1145/3736731.3746152
+[Podcast]: https://open.spotify.com/episode/71bCDQAF9xG5WSSJRd2tUQ?nd=1&dlsi=178f0b13899b4329
