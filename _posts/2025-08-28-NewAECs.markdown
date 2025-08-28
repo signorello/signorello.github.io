@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Serving on the AECs at IEEE S&P'26 and NSDI'26."
+date:   2025-08-28 11:48:49 +0100
+categories: jekyll update
+---
+I was extremely happy to learn that two more important conferences in the areas of security and networks, the <em>IEEE Symposium on Security and Privacy (S&P)</em> and the <em>USENIX Symposium on Networked Systems Design and Implementation (NSDI)</em>, have adopted artifact evaluation for accepted papers starting this year. This decision aligns with similar initiatives adopted by other prestigious computer science conferences in security-related areas in recent years (a good list can be found on this [website][sec-artifacts]).
+
+I am also delighted to contribute to this effort by serving as an evaluator on both committees for these inaugural artifact evaluation processes. I look forward to seeing these artifact evaluation committees in action in the upcoming months.
+
+You can find more information about these artifact evaluation processes and their call for artifacts at the following links:
+
+[Artifact Evaluation at IEEE S&P'26][AE_at_SP]<br>
+[Artifact Evaluation at NSDI'26][AE_at_NSDI]
+
+
+
+[sec-artifacts]: https://secartifacts.github.io/
+[AE_at_SP]: https://sp2026.ieee-security.org/cfartifacts.html
+[AE_at_NSDI]: https://www.usenix.org/conference/nsdi26/call-for-artifacts
