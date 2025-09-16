@@ -21,5 +21,4 @@ Before joining NOVA University Lisbon, I worked as a research scientist at Telef
 
 <p>&nbsp;</p>
 <p><em>Professional Memberships:</em></p>
-I am a member of the <em>Association for Computing Machinery</em> (ACM), and also member of the ACM Special Interest Group on Data Communication (SIGCOMM) & of the ACM Emerging Interest Group on Reproducibility and Replicability (EIGREP).<br />
-I am an individual member of <em>Internet Society</em>.
+I am a member of the <em>Association for Computing Machinery</em> (ACM), and also member of the ACM Special Interest Group on Data Communication (SIGCOMM) & of the ACM Emerging Interest Group on Reproducibility and Replicability (EIGREP). I am an individual member of <em>Internet Society</em>.

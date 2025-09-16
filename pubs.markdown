@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<p>You can check the full list of my publications I have co-authored on <a href="https://scholar.google.com/citations?user=XhcoaPoAAAAJ&amp;hl=en"> my google scholar page</a>, here follows a selected list:</p>
+<p>You can check the full list of publications I have co-authored on <a href="https://scholar.google.com/citations?user=XhcoaPoAAAAJ&amp;hl=en"> my google scholar page</a>, here follows a selected list:</p>
 <ul>
 <li>Daniele Cono D’Elia, Thaleia Dimitra Doudali, Cristiano Giuffrida, Miguel Matos, Mathias Payer, Solal Pirelli, Georgios Portokalidis, Valerio Schiavoni, <span style="text-decoration: underline;">Salvatore Signorello</span>, Anjo Vahldiek-Oberwagner.<em>&rdquo;Lessons Learned from Five Years of Artifact Evaluations at EuroSys&rdquo;</em>, to appear at the 2025 ACM Conference for Reproducibility and Replicability (ACM REP).</li>
 
