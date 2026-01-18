@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Serving on the TPC of ACM REP'26"
+date:   2025-12-30 16:02:21 +0100
+categories: jekyll update
+---
+I was looking forward to hearing the news about the next ACM REP conference, and finally, here it is! [ACM REP'26][ACM_REP26] will take place in Delft during the last weeks of July. The conference is one of the important initiatives of the ACM Emerging Interest Group on Reproducibility and Replicability ([EIGREP][ACM_EIGREP]). ACM REP is a unique event bringing together an inclusive community of researchers to discuss the theoretical and practical aspects of the reproducibility of computer science research.
+
+I am humbled and honored to be part of the Technical Program Committee once again and contribute to the community's noble goals. If you care about reproducibility in computer science, this community looks forward to hearing about your work and efforts. Please consider submitting your work to ACM-REP'26!
+
+
+[ACM_REP26]: https://acm-rep.github.io/2026/
+[ACM_EIGREP]: https://reproducibility.acm.org/
