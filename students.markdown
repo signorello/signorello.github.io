@@ -7,10 +7,11 @@ permalink: /students/
 <p>&nbsp;</p>
 <p><em><strong>Current MSc. supervisions:</strong></em></p>
 <ul style="list-style-type: circle;">
-<li>João Bernardo at NOVA University Lisbon (PT), co-advised with Prof. Fernando M.V. Ramos (IST), <em>&ldquo;Bridging ICN and IP networks at unprecedented network speeds: exploring in-network translation with P4&rdquo;</em>. </li>
-<li>André Real at NOVA University Lisbon (PT), <em>&ldquo;A systematic study of cryptographic primitives for P4-programmable packet processors&rdquo;</em>. </li>
-<li>Duarte Gabriel at NOVA University Lisbon (PT), <em>&ldquo;Assessing the degree of reproducibility of existing P4-based research&rdquo;</em>. </li>
-<li>Bernardo Jordao at IST (Lisbon, PT), co-advised with Prof. Fernando M.V. Ramos (IST), <em>&ldquo;A Study of Traffic Change Detection for Terabit Networks: From Evaluation to Self-Configuration&rdquo;</em>.</li>
+<li>André Real      @NOVA - <em>Cryptography with P4</em>. </li>
+<li>Duarte Gabriel  @NOVA - <em>Reproducibility of P4-based research</em>. </li>
+<li>Henrique Santos @NOVA -  <em>SCION with P4 </em> (co-advisor: Prof. Fernando Ramos). </li>
+<li>João Bernardo @NOVA-  <em>In-network translation with P4 </em>(co-advisor: Prof. Fernando Ramos). </li>
+<li>Bernardo Jordao @IST  - <em>Traffic Change Detection</em> (main advisor: Prof. Fernando Ramos).</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong><em>Concluded MSc. supervisions:</em></strong></p>
