@@ -7,11 +7,9 @@ permalink: /students/
 <p>&nbsp;</p>
 <p><em><strong>Current MSc. supervisions:</strong></em></p>
 <ul style="list-style-type: circle;">
-<li>André Real      @NOVA - <em>Cryptography with P4</em>. </li>
+<li>André Real      @NOVA - <em>In-network Cryptography</em>. </li>
 <li>Duarte Gabriel  @NOVA - <em>Reproducibility of P4-based research</em>. </li>
-<li>Henrique Santos @NOVA -  <em>SCION with P4 </em> (co-advisor: Prof. Fernando Ramos). </li>
-<li>João Bernardo @NOVA-  <em>In-network translation with P4 </em>(co-advisor: Prof. Fernando Ramos). </li>
-<li>Bernardo Jordao @IST  - <em>Traffic Change Detection</em> (main advisor: Prof. Fernando Ramos).</li>
+<li>João Bernardo @NOVA-  <em>In-network translation  </em>(co-advisor: Prof. Fernando Ramos). </li>
 </ul>
 <p>&nbsp;</p>
 <p><strong><em>Concluded MSc. supervisions:</em></strong></p>

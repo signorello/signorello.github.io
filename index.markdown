@@ -2,23 +2,51 @@
 layout: home
 title: About Me
 ---
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 
-<table style="height: 115px; width: 704px;" border="0">
-<tbody>
-<tr>
-<td style="width: 205px;">
-<img src="/assets/images/ProfilePic.png" alt="profile picture" width="150" height="200" >
-</td>
-<td style="width: 483px; text-align: center;"><span style="color: #111111; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #fdfdfd; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Hello, I am Salvatore, a computer and information research scientist, and you have landed on my personal website. I currently work as an assistant professor at the Computer Science department of the NOVA University Lisbon. I am also a member of the NOVA Laboratory for Computer Science and Informatics (NOVA LINCS) research center.</span></td>
-</tr>
-</tbody>
-</table>
+<style>
+  .section-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1e293b;
+    margin-top: 2rem;
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 8px;
+  }
+</style>
 
-I am broadly interested in protocols and architectures for networked systems. Most of my current research primarily centers on the use of programmable network technologies for network monitoring and network security applications. I am also very interested in the topic of reproducibility in computer science research, since 2020 I have been actively involved in assisting with artifact evaluation processes at conferences related to systems, networks, and security. 
+<div style="background-color: #fffdf5; padding: 40px; border-radius: 12px; margin-bottom: 2.5rem; display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="/assets/images/ProfilePic.png" alt="Salvatore's Profile Picture" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border: 3px solid white;">
+  
+  <div style="flex: 1; min-width: 300px;">
+    <p style="font-size: 1.15rem; line-height: 1.6; margin: 0; color: #334155; text-align: center; hyphens: none;">
+      Hello, I am <strong>Salvatore</strong>, a computer and information research scientist. 
+      I currently work as an Assistant Professor in the Computer Science department at <strong>NOVA University Lisbon</strong> 
+      , where I am also a member of the <strong>NOVA LINCS</strong> research center.
+    </p>
+  </div>
 
-Before joining NOVA University Lisbon, I worked as a research scientist at Telefonica Research in Barcelona from 2023 to 2024. Prior to this role, I served as an invited assistant professor at the Department of Informatics (DI) of the Faculty of Sciences of the University of Lisbon (FCUL) from 2021 to 2023 and as a postdoctoral researcher at FCUL and INESC-ID/IST in Lisbon from 2018 to 2021 luckily advised by <a href="https://www.inesc-id.pt/member/6c2ab9ca-32c3-4c1d-bf70-46fc3846d405/">Prof. Fernando M.V. Ramos</a> . I hold a PhD in Computer Science jointly from the Interdisciplinary Centre for Security, Reliability and Trust (SnT) in Luxembourg and the INRIA-Nancy Lab in France, and an MSc. and a BSc. in Computer Science and Information Engineering from Italy.
+  <div style="flex-basis: 100%; margin-top: 2px;">
+    <p style="font-size: 1.05rem; font-style: italic; line-height: 0.2; margin: 0; color: #64748b; text-align: center;">
+      "Smart and fast thinkers are good, but slow-and-steady thinkers are great ..." &mdash; KV
+    </p>
+  </div>
 
+</div>
 
-<p>&nbsp;</p>
-<p><em>Professional Memberships:</em></p>
-I am a member of the <em>Association for Computing Machinery</em> (ACM), and also member of the ACM Special Interest Group on Data Communication (SIGCOMM) & of the ACM Emerging Interest Group on Reproducibility and Replicability (EIGREP). I am an individual member of <em>Internet Society</em>.
+---
+
+<h3 class="section-heading">Research Interests</h3>
+I am broadly interested in **protocols and architectures for networked systems**. My current research focuses on:
+* **Programmable Network Technologies:** Specifically for monitoring and security applications.
+* **Reproducibility in Computer Science Research** Since 2020, I have been actively involved in artifact evaluation for systems, networks, and security conferences.
+
+<h3 class="section-heading">Professional Experience & Education</h3>
+Before joining NOVA University Lisbon, I was a research scientist at **Telefonica Research** in Barcelona (2023–2024). My previous roles include:
+* **Invited Assistant Professor:** Faculty of Sciences of the University of Lisbon (FCUL), 2021–2023.
+* **Postdoctoral Researcher:** FCUL and INESC-ID/IST within the <strong>Navigators</strong> and <strong>DPSS</strong> research groups, 2018–2021 (advised by [Prof. Fernando M.V. Ramos](https://www.inesc-id.pt/member/6c2ab9ca-32c3-4c1d-bf70-46fc3846d405/)).
+
+I hold a **PhD in Computer Science** (Joint degree: SnT Luxembourg & INRIA-Nancy, France) and an MSc./BSc. from Italy.
+
+<h3 class="section-heading">Professional Memberships</h3>
+I am a member of the <em>Association for Computing Machinery</em> (**ACM**), of the ACM Special Interest Group on Data Communication (**SIGCOMM**), of the ACM Emerging Interest Group on Reproducibility and Replicability (**EIGREP**), and an individual member of **Internet Society**.
