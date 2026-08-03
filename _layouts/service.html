@@ -1,0 +1,190 @@
+---
+layout: default
+---
+<article class="post service-page">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<style>
+
+ .service-page .card {
+     background: #ffffff;
+     border: 1px solid #e5e7eb;
+     border-radius: 8px;
+     padding: 1.5rem 2rem;
+     margin-bottom: 1.5rem;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+ }
+
+ .service-page .card h2 {
+     font-size: 1.25rem;
+     color: #2563eb;
+     border-bottom: 2px solid #e5e7eb;
+     padding-bottom: 0.5rem;
+     margin-top: 0;
+     margin-bottom: 1rem;
+ }
+
+/* Scoped styles for simplified inline service lists */
+.service-page .service-paragraph {
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.7;
+    margin-bottom: 1.25rem;
+    text-align: justify;
+}
+
+.service-page .service-paragraph:last-child {
+    margin-bottom: 0;
+}
+
+.service-page .service-category-name {
+    font-weight: 600;
+    color: #1f2937;
+}
+/* Scoped styles specifically for the service page */
+.service-page .service-list li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.service-page .service-list li:last-child {
+    border-bottom: none;
+}
+
+.service-page .service-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.service-page .service-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #1f2937;
+}
+
+.service-page .service-date {
+    display: inline-block;
+    background-color: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 9999px;
+}
+
+.service-page .service-role {
+    font-size: 0.9rem;
+    color: #2563eb;
+    font-weight: 500;
+}
+
+.service-page .service-details {
+    font-size: 0.85rem;
+    color: #4b5563;
+}
+
+/* Subheading inside cards for categorizations like TPC, Reviewer, etc. */
+.service-page .sub-category-title {
+    font-size: 1.1rem;
+    color: #1f2937;
+    border-left: 3px solid #2563eb;
+    padding-left: 0.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.service-page .sub-category-title:first-of-type {
+    margin-top: 0.5rem;
+}
+
+/* Footnotes and Awards styling */
+.service-page .service-footnotes {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px dashed #e5e7eb;
+    font-size: 0.85rem;
+    color: #4b5563;
+}
+
+.service-page .service-footnotes ul {
+    list-style-type: lower-alpha;
+    padding-left: 1.25rem;
+    margin: 0.5rem 0 0 0;
+}
+
+.service-page .service-footnotes li {
+    padding: 0.2rem 0;
+    border: none;
+}
+
+/* Scoped styles for four-element list items */
+.service-page .item-list li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.service-page .item-list li:last-child {
+    border-bottom: none;
+}
+
+.service-page .item-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.service-page .item-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #1f2937;
+}
+
+.service-page .item-date {
+    display: inline-block;
+    background-color: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 9999px;
+}
+
+.service-page .item-meta-row {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.9rem;
+    color: #4b5563;
+    flex-wrap: wrap;
+}
+
+.service-page .item-role {
+    font-weight: 500;
+    color: #2563eb;
+}
+
+.service-page .item-location {
+    font-style: italic;
+    color: #6b7280;
+}
+
+</style>
