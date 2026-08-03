@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<article class="post talks-page">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<style>
+
+/* Scoped styles specifically for the talks page */
+.talks-page .card-intro {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    color: #4b5563;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.talks-page .talk-list li {
+    padding: 1rem 0;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.talks-page .talk-list li:last-child {
+    border-bottom: none;
+}
+
+.talks-page .talk-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #1f2937;
+}
+
+.talks-page .talk-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #4b5563;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.talks-page .talk-location {
+    font-style: italic;
+    color: #6b7280;
+}
+
+.talks-page .talk-date {
+    background-color: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 9999px;
+}
+
+</style>
