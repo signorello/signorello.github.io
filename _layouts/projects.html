@@ -1,0 +1,129 @@
+---
+layout: default
+---
+<article class="post projects-page">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<style>
+
+.projects-page .card {
+     background: #ffffff;
+     border: 1px solid #e5e7eb;
+     border-radius: 8px;
+     padding: 1.5rem 2rem;
+     margin-bottom: 1.5rem;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+ }
+
+.projects-page .card h2 {
+     font-size: 1.25rem;
+     color: #2563eb;
+     border-bottom: 2px solid #e5e7eb;
+     padding-bottom: 0.5rem;
+     margin-top: 0;
+     margin-bottom: 1rem;
+ }
+
+.projects-page .section-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1e293b;
+    margin-top: 2rem;
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 8px;
+  }
+
+/* Scoped styles specifically for the projects page */
+.projects-page .project-list li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.projects-page .project-list li:last-child {
+    border-bottom: none;
+}
+
+.projects-page .project-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.projects-page .project-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #1f2937;
+}
+
+.projects-page .project-date {
+    display: inline-block;
+    background-color: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 9999px;
+}
+
+.projects-page .project-role {
+    font-size: 0.9rem;
+    color: #4b5563;
+}
+
+.projects-page .project-details {
+    font-size: 0.85rem;
+    color: #4b5563;
+}
+
+.projects-page .project-links {
+    margin-top: 0.25rem;
+    font-size: 0.85rem;
+}
+
+.projects-page .project-links a {
+    color: #2563eb;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.projects-page .project-links a:hover {
+    text-decoration: underline;
+}
+
+/* Styling for introductory paragraphs inside the card */
+.projects-page .project-intro-text {
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    text-align: justify;
+}
+
+/* Styling for the partners element */
+.projects-page .project-partners {
+    font-size: 0.85rem;
+    color: #4b5563;
+    margin-top: 0.25rem;
+}
+
+.projects-page .partners-label {
+    font-weight: 600;
+    color: #374151;
+}
+
+</style>
