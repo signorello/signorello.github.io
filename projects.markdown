@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <div class="card">
-  <h2>Ongoing Projects</h2>
+  <h2 class="section-heading">Ongoing Projects</h2>
   <ul class="project-list">
     <li>
       <div class="project-header-row">
@@ -29,7 +29,7 @@ permalink: /projects/
 </div>
 
 <div class="card">
-  <h2>Interesting Past Projects</h2>
+  <h2 class="section-heading">Interesting Past Projects</h2>
   <ul class="project-list">
     <li>
       <div class="project-header-row">

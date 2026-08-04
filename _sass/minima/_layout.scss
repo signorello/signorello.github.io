@@ -180,8 +180,12 @@
   flex: 1;
 }
 
-.page-heading {
-  @include relative-font-size(2);
+.page-heading,
+.post-title {
+  /**@include relative-font-size(2);*/
+  font-size: 2rem; /* You can change the number '2' to adjust the size */
+  font-weight: 600;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .post-list-heading {
@@ -216,7 +220,7 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+/**.post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
@@ -224,7 +228,7 @@
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
   }
-}
+}*/
 
 .post-content {
   margin-bottom: $spacing-unit;
